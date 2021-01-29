@@ -16,5 +16,3 @@ def Multiply:
 
 def Division:
     return x/y
-
-#some more comments
